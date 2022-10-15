@@ -1,0 +1,2 @@
+# Object-Oriented-Analysis-Design-
+We are part of a team that is attempting to address the "Student Housing Management System" issue. In this project, we are attempting to cover the UML diagram models in order to create a system blueprint for the better development. In UML modeling, we created a Use Case diagram, a Class diagram, an Activity diagram, and a Sequence diagram to visualize the entire project and view the overall system briefly. 
